@@ -11,7 +11,26 @@
 
 ## 🧬 About Me
 
-👋 Hi, I’m **Abhinash Palagarra**, an Undergraduate Developer.
+I am an open-source developer and the founder of **Alpha-X**. I specialize in building high-performance, transparent tools that solve real-world problems. My mission is to turn bold ideas into production-ready code, one commit at a time.
+
+---
+
+### 🛠 Tech & Tools
+* **Focus:** Open Source Innovation & System Architecture
+* **Vibe:** Cyberpunk Aesthetics & Clean Code
+* **Organization:** [Alpha-X](https://github.com/abhinash000) 
+
+### 🚀 Projects & Vision
+* **Alpha-X:** Empowering the next generation of developers through collaborative software.
+* **Community:** Focused on building accessible, modular libraries for the modern web.
+
+---
+
+### 📫 Connect with Me
+* **GitHub:** [abhinash000](https://github.com/abhinash000)
+* **Status:** Dreaming. Building. Shipping.
+### Alpha-X
+<img width="100" height="100" alt="Gemini_Generated_Image_k8nj5sk8nj5sk8nj (1)" src="https://github.com/user-attachments/assets/0112b1c9-b2ea-4eca-844a-a9699cc09713" />
 
 🛡️ Deeply interested in:
 
@@ -140,16 +159,7 @@ I enjoy building **secure backends**, **Linux-based systems**, and **modern web 
 
 ---
 
-## 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=abhinash000&icon=5&color=6"/>
-</p>
-
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a5acd,100:00ffcc&height=120&section=footer"/>
-</p>
 
 ⭐ Learning every day. Building step by step.
