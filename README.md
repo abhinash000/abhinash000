@@ -18,7 +18,7 @@ I am an open-source developer and the founder of **Alpha-X**. I specialize in bu
 ### 🛠 Tech & Tools
 * **Focus:** Open Source Innovation & System Architecture
 * **Vibe:** Cyberpunk Aesthetics & Clean Code
-* **Organization:** [Alpha-X](https://github.com/abhinash000) 
+* **Organization:** [Alpha-X](https://github.com/alph-x) 
 
 ### 🚀 Projects & Vision
 * **Alpha-X:** Empowering the next generation of developers through collaborative software.
